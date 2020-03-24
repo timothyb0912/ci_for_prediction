@@ -6,4 +6,4 @@ This note is a response to the premise that "if one's goal is purely to make pre
 
 This position, as stated, is of course a straw man. However, the underlying sentiment is frequently expressed to varying degrees by scholarly authors.
 
-In this note, I show that even if one's goal is purely to make predictive inferences in the population from which one's training data was sampled, making use of causal inference techniques may be fundamental to produce principled predictions. 
+In this note, I show that even when one's goal is purely to make predictive inferences in the population from which one's training data was sampled, causal inference concerns such as accounting for unobserved confounding may be fundamental to producing principled predictions.
