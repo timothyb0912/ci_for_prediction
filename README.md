@@ -1,6 +1,6 @@
 # Causal Inference for Prediction
 
-This repo holds the source fiels for a small note titled "On the Importance of Modeling Unmeasured Confounders in Predictive Inference."
+This repo holds the source files for a small note titled "On the Importance of Modeling Unmeasured Confounders in Predictive Inference."
 
 This note is a response to the premise that "if one's goal is purely to make predictions without interventions, then causal inference techniques are unnecessary."
 
